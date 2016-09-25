@@ -1,0 +1,20 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\Manny Crespi\Documents\Crespi_ENEE440_Final_Project\Blinky.uvproj
+Project File Date:  06/15/2016
+
+<h2>Output:</h2>
+Load "C:\\Users\\Manny Crespi\\Documents\\Crespi_ENEE440_Final_Project\\Blinky.AXF" 
+_____^
+*** error 56: cannot open file
+Load "C:\\Users\\Manny Crespi\\Documents\\Crespi_ENEE440_Final_Project\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Load "C:\\Users\\Manny Crespi\\Documents\\Crespi_ENEE440_Final_Project\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
